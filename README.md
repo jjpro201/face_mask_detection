@@ -1,2 +1,2 @@
-# face_maske_detection
+# face_mask_detection
 face mask detection
